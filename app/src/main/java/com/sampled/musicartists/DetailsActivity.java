@@ -4,12 +4,10 @@ package com.sampled.musicartists;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.koushikdutta.ion.Ion;
-import com.koushikdutta.urlimageviewhelper.UrlImageViewHelper;
 
 public class DetailsActivity extends AppCompatActivity {
 
